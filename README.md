@@ -6,6 +6,8 @@
 * [License](#license)
 * [Usage](#usage)
 * [Questions](#questions)
+* [Picture](#picture)
+
 ## Project URL
   https://stormy-earth-59747.herokuapp.com/
   <br />
@@ -18,4 +20,7 @@
 ## Questions
   My email: willhall123@icloud.com
   <br />
-  My GitHub: undefined
+  My GitHub: willhall123
+  
+## Picture
+
